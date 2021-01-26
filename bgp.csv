@@ -1,0 +1,3 @@
+node,interface,vrf,ipv6,peer_address,remote_as,evpn_safi,ipv4,update_source
+5254001413FE,Vlan10,sz1,FALSE,10.11.10.2,65001,FALSE,TRUE,10.11.10.1
+5254001413FE,Vlan10,sz1,FALSE,10.11.11.2,65001,FALSE,TRUE,10.11.11.1

@@ -1,0 +1,3 @@
+node,interface,vrf,primary_ipv4,secondary_ipv4,primary_ipv6,secondary_ipv6
+5254001413FE,Vlan10,sz1,10.11.10.1/24,,,
+5254001413FE,Vlan10,sz1,,10.11.11.1/24,,
